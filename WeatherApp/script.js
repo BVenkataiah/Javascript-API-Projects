@@ -1,7 +1,7 @@
 let result = document.getElementById("result");
 let searchBtn = document.getElementById("search-btn");
 let cityRef = document.getElementById("city");
-const apiKey = "91f292aaa14f428e93dedc1d053f2d8b";
+const apiKey = "";
 
 
 //Function to fetch weather details from api and display them
