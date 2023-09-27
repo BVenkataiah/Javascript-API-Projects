@@ -15,7 +15,7 @@ const options = [
 //100 requests per day
 let requestURL;
 
-let apiKey ="95c29263f3594a84b01a2960f4a6d163";
+let apiKey ="";
 
 //Create cards from data
 const generateUI = (articles) => {
