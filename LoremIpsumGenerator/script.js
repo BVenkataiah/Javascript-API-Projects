@@ -1,4 +1,4 @@
-let apikey = "tIOSZYTXMPGxv3OvrXfuMw==j5rSI1IyqxfT9AJJ";
+let apikey = "";
 
 let generateBtn = document.getElementById('generate-btn');
 let copyBtn = document.getElementById("copy-btn");
